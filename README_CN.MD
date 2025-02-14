@@ -275,10 +275,3 @@
 
 ### 其它
 
-<table>
-    <tr>
-        <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
-        <td> 一种用于智能 shell 命令生成的终端工具。 </td>
-    </tr>
-</table>
