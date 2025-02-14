@@ -299,6 +299,6 @@
     <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
-        <td> 🚀 使用 Deepseek 进行代码审核，支持 GitHub Action 和本地 🚀 </td>
+        <td> 🚀 使用 Deepseek 进行代码审核，支持 GitHub Action 和本地1 🚀 </td>
     </tr>
 </table>
