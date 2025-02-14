@@ -229,7 +229,7 @@
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
-        <td> Cline 是一款能够使用您的 CLI  </td>
+        <td> Cline 是一款能够使用您的 CLI4  </td>
     </tr>
 </table>
 
