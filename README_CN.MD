@@ -291,9 +291,4 @@
         <td> <a href="https://github.com/rubickecho/n8n-deepseek"> n8n-nodes-deepseek </a> </td>
         <td> 一个 N8N 的社区节点,支持直接使用 DeepSeek API 集成到工作流中 </td>
     </tr>
-    <tr>
-        <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
-        <td> 测试和评估LLM提示，包括DeepSeek模型。比较不同的LLM提供商，捕获回归，并评估响应。 </td>
-    </tr>
 </table>
